@@ -13,7 +13,7 @@ This repository contains simple showcase of component testing using Playwright.
 
 ### 🧪 Run tests
 
-1. If you are using nvm, you can run the following command to use the project version of node:
+1. To use the specific Node.js version within a project using nvm:
 ```bash
 nvm use 
 ```
